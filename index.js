@@ -10,14 +10,12 @@ const questions =
     description:`
     Provide a short description explaining how your project works. Use the following questions as a guide:
     - What was your motivation?
-    - Why did you build this project? 
     - What problem does it solve?
     - What did you learn?
     `,
     
     installInstructions:`
     What are the steps required to install your project? 
-    Provide a step-by-step description of how to get the development environment running.
     `,
     
     usageInfo:'Provide instructions and examples for use.',
